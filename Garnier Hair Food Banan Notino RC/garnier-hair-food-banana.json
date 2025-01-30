@@ -1,0 +1,775 @@
+{
+    "keys": [
+        "garnier/fructis-banana-hair-food-maseczka-odzywcza-do-wlosow-suchych/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Garnier Hair Food Banana",
+    "rpc": "GAR06845",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Garnier Hair Food Banana",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV.jpg",
+                                "element": "img",
+                                "alt": "Fructis Hair Food. Nowa formuła + witaminy C, E, F",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "50px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV-mobile.jpg",
+                                "element": "img",
+                                "alt": "Fructis Hair Food. Nowa formuła + witaminy C, E, F",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Odżywcza rutyna",
+                                "element": "h2",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "30px",
+                                    "color": "#12622d",
+                                    "textTransform": "uppercase",
+                                    "margin": "0",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "dla suchych włosów",
+                                "element": "h2",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "30px",
+                                    "color": "#12622d",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1",
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsFive",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-02-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneTitle",
+                                "value": "7x bardziej",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "lineHeight": "0.1",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "odżywione włosy(2)",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "lineHeight": "1",
+                                    "marginTop": "-10px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-02-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Wegańska formuła(3)",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "lineHeight": "0.1",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "lineHeight": "1",
+                                    "marginTop": "-6px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-02-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "97% składników",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "lineHeight": "0.1",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "pochodzenia naturalnego",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "lineHeight": "1",
+                                    "marginTop": "-6px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "columnFourAsset",
+                                "value": "MOD-02-D.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFourTitle",
+                                "value": "Bez silikonów",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "lineHeight": "0.1",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnFourText",
+                                "value": "dla naturalnych w dotyku włosów",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "lineHeight": "1",
+                                    "marginTop": "-6px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "columnFiveAsset",
+                                "value": "MOD-02-E.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFiveTitle",
+                                "value": "Wzbogacone w witaminy C, E i F(1)",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "color": "#070707",
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "marginBottom": "0",
+                                    "marginTop": "15px",
+                                    "lineHeight": "1",
+                                    "fontWeight": "bold"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "margin": "30px 35px 30px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03.jpg",
+                                "element": "img",
+                                "alt": "Nowa, odżywcza formuła",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "40px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03-mobile.jpg",
+                                "element": "img",
+                                "alt": "Nowa, odżywcza formuła",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 15px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-04.jpg",
+                                "element": "img",
+                                "alt": "Używaj maski tak, jak lubisz. Jako odżywkę, jako maskę, jako odżywkę bez spłukiwania",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "40px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-04-mobile.jpg",
+                                "element": "img",
+                                "alt": "Używaj maski tak, jak lubisz. Jako odżywkę, jako maskę, jako odżywkę bez spłukiwania",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "7x bardziej",
+                                "element": "h2",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "30px",
+                                    "color": "#12622d",
+                                    "textTransform": "uppercase",
+                                    "margin": "0",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "odżywione włosy(2)",
+                                "element": "h2",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "30px",
+                                    "color": "#12622d",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1",
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-05-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-05-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-05-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "40px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "maski dobrane",
+                                "element": "h2",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "30px",
+                                    "color": "#12622d",
+                                    "textTransform": "uppercase",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "do potrzeb twoich włosów",
+                                "element": "h2",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "30px",
+                                    "color": "#12622d",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "bold"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-06.jpg",
+                                "element": "img",
+                                "alt": "Bannana Hair Food i Cocoa Butter Hair Food",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "40px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "odżywcza rutyna",
+                                "element": "h2",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "30px",
+                                    "color": "#12622d",
+                                    "textTransform": "uppercase",
+                                    "margin": "0",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "dla suchych włosów",
+                                "element": "h2",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "30px",
+                                    "color": "#12622d",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1",
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-07-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Fructis Banana Hair Food Odżywczy Szampon",
+                                "element": "h5",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "20px",
+                                    "color": "#11111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1.2",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Szampon Banana Hair Food delikatnie oczyszcza i odżywia włosy, a jego lekka formuła sprawia, że dodatkowo ich nie obciąża.",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "16px",
+                                    "color": "#11111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1.5"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-07-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Fructis Banana Hair Food Odżywcza Odżywka",
+                                "element": "h5",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "20px",
+                                    "color": "#11111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1.2",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "Bogata formuła odżywki Banana Hair Food natychmiast wchłania się we włosy, dodatkowo je odżywiając i ułatwiając ich rozczesywanie.",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "16px",
+                                    "color": "#11111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1.5"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-07-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Fructis Banana Hair Food Maska do włosów suchych",
+                                "element": "h5",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "20px",
+                                    "color": "#11111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1.2",
+                                    "fontWeight": "bold"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "Banana Hair Food to odżywcza maska do włosów bardzo suchych, która głęboko je nawilży. Możesz jej użyć na 3 sposoby!",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "16px",
+                                    "color": "#11111",
+                                    "marginBottom": "0",
+                                    "marginTop": "-10px",
+                                    "lineHeight": "1.5"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "padding": "40px 35px",
+                            "marginBottom": "30px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneText",
+                                "value": "(1)Pochodnia witamin C, E, F",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "13px",
+                                    "color": "#111111"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 15px",
+                            "lineHeight": "1"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneText",
+                                "value": "(2)Test instrumentalny po zastosowaniu szamponu i maski.",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "13px",
+                                    "color": "#111111"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "-15px",
+                            "padding": "0 15px",
+                            "lineHeight": "1"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneText",
+                                "value": "(3)Nie zawiera składników pochodzenia zwierzęcego lub pochodnych.",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "13px",
+                                    "color": "#111111"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "-15px",
+                            "padding": "0 15px",
+                            "lineHeight": "1"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneText",
+                                "value": "(4)Test instrumentalny",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "13px",
+                                    "color": "#111111"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "-15px",
+                            "padding": "0 15px",
+                            "lineHeight": "1"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
